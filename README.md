@@ -1,0 +1,2 @@
+# MVP
+calculate rectangle area
